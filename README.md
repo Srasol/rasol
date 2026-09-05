@@ -1,6 +1,6 @@
 # Hi, I'm Shaik Rasol Ahmad 👋
 
-### Electronics & Communication Engineering Student | Full-Stack Developer
+### Computer Science and Engineering Student | Full-Stack Developer
 
 I’m a passionate developer interested in building practical, user-friendly web applications and learning modern software technologies.
 
