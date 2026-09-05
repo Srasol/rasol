@@ -8,7 +8,7 @@ I’m a passionate developer interested in building practical, user-friendly web
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering
+- 🎓 B.Tech in Computer Science and Engineering
 - 💻 Interested in Full-Stack Web Development
 - 🌱 Currently improving my skills in React, Node.js, Express and MongoDB
 - 🔧 Enjoy building real-world projects
@@ -73,13 +73,6 @@ My personal portfolio website showcasing my skills, projects and development wor
 
 ---
 
-## 📚 Certifications & Training
-
-- Industrial Training – Avishkaran Industries Pvt. Ltd.
-- Web Technologies Internship
-
----
-
 ## 🎯 Current Goals
 
 - Build production-ready full-stack applications
@@ -91,7 +84,7 @@ My personal portfolio website showcasing my skills, projects and development wor
 
 ## 🤝 Connect With Me
 
-📧 Email: **rahimunishask006@gmail.com**
+📧 Email: **sheikrasolahmad@gmail.com **
 
 🌐 Portfolio: **https://srasol.github.io/MyPortfolio/**
 
